@@ -21,7 +21,7 @@ from sklearn import preprocessing
 from keras.utils import np_utils
 from sklearn.feature_extraction.text import CountVectorizer
 
-"""# 新段落"""
+
 
 filename = 'marmitonrecettes.csv'
 token = '48eb51ebd68f3d2a99b72ec339b32756402007c5'
